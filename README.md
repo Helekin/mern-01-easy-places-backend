@@ -26,7 +26,7 @@ git clone https://github.com/Helekin/mern-01-backend-easy-places.git
 3. Runs the app in the development mode
 
 ```sh
-npm run start
+npm run server
 ```
 
 ## License
