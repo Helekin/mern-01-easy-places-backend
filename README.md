@@ -18,7 +18,7 @@ In this project you will find will find the complete exercise belonging to the B
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Helekin/mern-01-backend-easy-places.git
+https://github.com/Helekin/mern-01-easy-places-backend.git
 ```
 
 2. Create your .env file and use your credentials
